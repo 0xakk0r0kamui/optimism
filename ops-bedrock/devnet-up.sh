@@ -29,8 +29,8 @@
 
 set -eu
 
-L1_URL="http://localhost:8545"
-L2_URL="http://localhost:9545"
+L1_URL="http://localhost:18545"
+L2_URL="http://localhost:19545"
 
 OP_NODE="$PWD/op-node"
 CONTRACTS_BEDROCK="$PWD/packages/contracts-bedrock"
